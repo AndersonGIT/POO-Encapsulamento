@@ -1,0 +1,7 @@
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojAssemblyReference.cache
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
