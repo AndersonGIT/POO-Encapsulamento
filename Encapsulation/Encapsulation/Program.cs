@@ -16,7 +16,8 @@ namespace Encapsulation
 
             try
             {
-                ProgramProduct.ExecuteProgram();
+                //ProgramProduct.ExecuteProgram();
+                ProgramCar.ExecuteProgram();
             }
             catch (Exception ex)
             {
@@ -27,7 +28,6 @@ namespace Encapsulation
             {
                 Console.ResetColor();
             }
-
 
             Console.ReadKey();
         }
