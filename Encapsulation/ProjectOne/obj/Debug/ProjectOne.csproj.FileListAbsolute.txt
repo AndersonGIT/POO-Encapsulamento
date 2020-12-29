@@ -1,0 +1,6 @@
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectOne\bin\Debug\ProjectOne.exe.config
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectOne\bin\Debug\ProjectOne.exe
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectOne\bin\Debug\ProjectOne.pdb
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectOne\obj\Debug\ProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectOne\obj\Debug\ProjectOne.exe
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectOne\obj\Debug\ProjectOne.pdb

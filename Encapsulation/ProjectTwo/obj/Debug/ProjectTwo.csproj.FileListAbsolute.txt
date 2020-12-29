@@ -1,0 +1,11 @@
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectTwo\bin\Debug\ProjectTwo.exe.config
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectTwo\bin\Debug\ProjectTwo.exe
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectTwo\bin\Debug\ProjectTwo.pdb
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectTwo\bin\Debug\ProjectOne.exe
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectTwo\bin\Debug\ProjectOne.pdb
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectTwo\bin\Debug\ProjectOne.exe.config
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectTwo\obj\Debug\ProjectTwo.csprojAssemblyReference.cache
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectTwo\obj\Debug\ProjectTwo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectTwo\obj\Debug\ProjectTwo.csproj.CopyComplete
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectTwo\obj\Debug\ProjectTwo.exe
+C:\Users\Dell\Google Drive\ProgramacaoFS\OrientacaoObjetos\Encapsulamento\Encapsulation\ProjectTwo\obj\Debug\ProjectTwo.pdb
